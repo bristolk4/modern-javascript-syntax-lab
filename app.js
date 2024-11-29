@@ -157,6 +157,8 @@ pizza === 'tasty' ? console.log('yum') : console.log('yuck');
 
 // Your code here
 
+//// This was the only thing I used chatGPT for and I was just checking to see if I was right!!
+//// To be fair this homework was really easy but hey it's something!!
 const LANG = localLangConfig || 'en';
 
 // Log the result
